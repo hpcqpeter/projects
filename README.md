@@ -1,4 +1,4 @@
 projects
 ========
 
-myprojects
+myprojects, welcome everybody!
